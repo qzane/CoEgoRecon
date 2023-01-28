@@ -8,6 +8,21 @@ This is an official implementation of ***Reconstruction of Human Body Pose and A
 > Qian Zhang, Akshay Paruchuri, YoungWoon Cha, Jiabin Huang, Jade Kandel, Howard Jiang, Adrian Ilie, Andrei State, Danielle Albers, Daniel Szafir, Henry Fuchs         
 > *[IEEE VR 2023](https://ieeevr.org/2023/)      
 
+
+
+![teaser](resources/teaser_poster.png)
+
+
+
+## Code
+
+Code will be availalbe soon.
+
+
+## Acknowledgement 
+
+## Citation
+
 If you find this code useful , please cite our paper:
 
 	@inproceedings{qian2023vr,
@@ -19,12 +34,3 @@ If you find this code useful , please cite our paper:
 	}
 
 Contact: qzane [at] cs.unc.edu
-
-![teaser](resources/teaser_poster.png)
-
-## Code
-
-Code will be availalbe soon.
-
-
-## Acknowledgement 
