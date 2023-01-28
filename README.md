@@ -20,6 +20,8 @@ If you find this code useful , please cite our paper:
 
 Contact: qzane [at] cs.unc.edu
 
+![teaser](resources/teaser_poster.png)
+
 ## Code
 
 Code will be availalbe soon.
