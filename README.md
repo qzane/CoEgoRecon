@@ -4,7 +4,7 @@
 
 This is an official implementation of ***Reconstruction of Human Body Pose and Appearance Using Body-Worn IMUs and a Nearby Camera View for Collaborative Egocentric Telepresence***
 
-> ***Reconstruction of Human Body Pose and Appearance Using Body-Worn IMUs and a Nearby Camera View for Collaborative Egocentric Telepresence***        
+> [***Reconstruction of Human Body Pose and Appearance Using Body-Worn IMUs and a Nearby Camera View for Collaborative Egocentric Telepresence***](https://drive.google.com/file/d/1yeIdI88bgQUoK7Gu_DQT-PWNd3iJyHx0)
 > Qian Zhang, Akshay Paruchuri, YoungWoon Cha, Jiabin Huang, Jade Kandel, Howard Jiang, Adrian Ilie, Andrei State, Danielle Albers, Daniel Szafir, Henry Fuchs         
 > *[IEEE VR 2023](https://ieeevr.org/2023/)      
 
